@@ -1,0 +1,12 @@
+# Runtime and secret-bearing files
+config.yaml
+config.yaml.bak*
+config_backup/
+logs/
+*.log
+*.tmp
+
+# Upstream release binaries are not tracked here.
+cli-proxy-api
+*/cli-proxy-api
+
